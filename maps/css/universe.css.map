@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/universe.css"],"names":[],"mappings":"AAAA,UACI,SAAU,MACV,IAAK,EACL,KAAK,EACL,QAAS,GACT,MAAO,KACP,OAAQ,KACR,eAAgB","file":"../../css/universe.css","sourcesContent":["#universe {\n    position: fixed;\n    top: 0;\n    left:0;\n    z-index: -1;\n    width: 100%;\n    height: 100%;\n    pointer-events: none;\n}"]}

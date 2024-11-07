@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/welcome.css"],"names":[],"mappings":"AAAA,cACI,YAAa,SACb,cAAe,KACf,wBAAyB,QACzB,mBAAoB,QACpB,kBAAmB","file":"../../css/welcome.css","sourcesContent":["#welcome-info {\n    white-space: pre-wrap;\n    border-radius: 14px;\n    --kouseki-welcome-color: #49B1F5;\n    --kouseki-ip-color: #49B1F5;\n    --kouseki-gl-size: 16px!important;\n}"]}
